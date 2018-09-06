@@ -1,0 +1,6 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <dimen name="fbutton_default_shadow_height">0dp</dimen>
+    <dimen name="fbutton_default_conner_radius">0dp</dimen>
+    <dimen name="hoyobutton_stroke_width">0dp</dimen>
+</resources>
